@@ -3,7 +3,7 @@ contains the modules for the jobscrapper
 job_scraper 
 job_scraper_app (GUI module)
 
-## Contributors
+# Contributors
 Kamiyo Iman Abdulshakur
 Nwatarali George jachike
 Jethro simon Mamman
